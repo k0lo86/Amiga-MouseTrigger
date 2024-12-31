@@ -5,10 +5,10 @@
   (paper "A4")
 
   (title_block
-    (title "OpenAmigaMouseTrigger")
-    (date "2018-05-29")
-    (rev "2")
-    (company "SukkoPera")
+    (title "Amiga-MouseTrigger")
+    (date "2024-12-30")
+    (rev "3")
+    (company "k0lo")
   )
 
   (lib_symbols
@@ -644,7 +644,7 @@
     (pin "2" (uuid 44bef3f5-e76d-4614-91e0-b16a25a7c825))
     (pin "1" (uuid da765880-cd76-4d97-887d-2d70286a5909))
     (instances
-      (project "OpenAmigaMouseTrigger"
+      (project "Amiga-MouseTrigger"
         (path "/2dc521a5-7c7d-4b09-a132-5a2b0ad5558e"
           (reference "J1") (unit 1)
         )
@@ -670,7 +670,7 @@
     (pin "1" (uuid d55bb505-f090-4d4b-abfe-58791989f771))
     (pin "2" (uuid 717abc45-4da5-4720-8c87-ab88f27e2a8c))
     (instances
-      (project "OpenAmigaMouseTrigger"
+      (project "Amiga-MouseTrigger"
         (path "/2dc521a5-7c7d-4b09-a132-5a2b0ad5558e"
           (reference "C1") (unit 1)
         )
@@ -696,7 +696,7 @@
     (pin "1" (uuid 322398d2-df65-4d75-a759-292142cf2e2f))
     (pin "2" (uuid 726a5a63-a6cf-4fec-b28e-9fa8c39e415d))
     (instances
-      (project "OpenAmigaMouseTrigger"
+      (project "Amiga-MouseTrigger"
         (path "/2dc521a5-7c7d-4b09-a132-5a2b0ad5558e"
           (reference "R3") (unit 1)
         )
@@ -734,7 +734,7 @@
     (pin "10" (uuid 984566f8-c216-426b-b191-35b633041d92))
     (pin "14" (uuid 8e950aca-1243-4927-a382-7f95973b0b8c))
     (instances
-      (project "OpenAmigaMouseTrigger"
+      (project "Amiga-MouseTrigger"
         (path "/2dc521a5-7c7d-4b09-a132-5a2b0ad5558e"
           (reference "U1") (unit 1)
         )
@@ -772,7 +772,7 @@
     (pin "8" (uuid 3c6fb4e2-aa84-47ba-8439-741d926d80aa))
     (pin "9" (uuid 2cd790fd-b41d-4690-a0cd-56b351386c62))
     (instances
-      (project "OpenAmigaMouseTrigger"
+      (project "Amiga-MouseTrigger"
         (path "/2dc521a5-7c7d-4b09-a132-5a2b0ad5558e"
           (reference "U1") (unit 2)
         )
@@ -797,7 +797,7 @@
     )
     (pin "1" (uuid 768f0680-8dcf-4c0b-aa8c-f03c2561ff7b))
     (instances
-      (project "OpenAmigaMouseTrigger"
+      (project "Amiga-MouseTrigger"
         (path "/2dc521a5-7c7d-4b09-a132-5a2b0ad5558e"
           (reference "#PWR01") (unit 1)
         )
@@ -822,7 +822,7 @@
     )
     (pin "1" (uuid debdf789-e264-4376-816b-38a4b322f4ce))
     (instances
-      (project "OpenAmigaMouseTrigger"
+      (project "Amiga-MouseTrigger"
         (path "/2dc521a5-7c7d-4b09-a132-5a2b0ad5558e"
           (reference "#PWR02") (unit 1)
         )
@@ -848,7 +848,7 @@
     (pin "1" (uuid 71e0c16e-de8e-46dc-a8a1-b26a76bf59d1))
     (pin "2" (uuid 7dadd689-b605-4d6c-bf93-e3ac58d56205))
     (instances
-      (project "OpenAmigaMouseTrigger"
+      (project "Amiga-MouseTrigger"
         (path "/2dc521a5-7c7d-4b09-a132-5a2b0ad5558e"
           (reference "J2") (unit 1)
         )
@@ -874,7 +874,7 @@
     (pin "1" (uuid 28aae59d-fe02-4f40-9a45-fd14ffee0671))
     (pin "2" (uuid 5567a057-a593-46d1-97f1-036387a93f08))
     (instances
-      (project "OpenAmigaMouseTrigger"
+      (project "Amiga-MouseTrigger"
         (path "/2dc521a5-7c7d-4b09-a132-5a2b0ad5558e"
           (reference "C2") (unit 1)
         )
@@ -899,7 +899,7 @@
     )
     (pin "1" (uuid 6c53fe4d-fac5-4083-b57d-d1854fb0641e))
     (instances
-      (project "OpenAmigaMouseTrigger"
+      (project "Amiga-MouseTrigger"
         (path "/2dc521a5-7c7d-4b09-a132-5a2b0ad5558e"
           (reference "#PWR03") (unit 1)
         )
@@ -924,7 +924,7 @@
     )
     (pin "1" (uuid b3718cc6-09d6-47d9-8410-f939efebbaf9))
     (instances
-      (project "OpenAmigaMouseTrigger"
+      (project "Amiga-MouseTrigger"
         (path "/2dc521a5-7c7d-4b09-a132-5a2b0ad5558e"
           (reference "#PWR04") (unit 1)
         )
@@ -949,7 +949,7 @@
     )
     (pin "1" (uuid 39630157-5b71-497d-bc6b-9ad1d21dfc65))
     (instances
-      (project "OpenAmigaMouseTrigger"
+      (project "Amiga-MouseTrigger"
         (path "/2dc521a5-7c7d-4b09-a132-5a2b0ad5558e"
           (reference "#PWR05") (unit 1)
         )
@@ -974,7 +974,7 @@
     )
     (pin "1" (uuid 65b26ca8-e120-4ac1-81e0-17da389158df))
     (instances
-      (project "OpenAmigaMouseTrigger"
+      (project "Amiga-MouseTrigger"
         (path "/2dc521a5-7c7d-4b09-a132-5a2b0ad5558e"
           (reference "#PWR06") (unit 1)
         )
@@ -999,7 +999,7 @@
     )
     (pin "1" (uuid 60a60858-7b35-4c54-86d3-f45491ebab43))
     (instances
-      (project "OpenAmigaMouseTrigger"
+      (project "Amiga-MouseTrigger"
         (path "/2dc521a5-7c7d-4b09-a132-5a2b0ad5558e"
           (reference "#FLG07") (unit 1)
         )
@@ -1024,7 +1024,7 @@
     )
     (pin "1" (uuid d17765db-1e0b-43b1-9717-b1cd2fecf8b5))
     (instances
-      (project "OpenAmigaMouseTrigger"
+      (project "Amiga-MouseTrigger"
         (path "/2dc521a5-7c7d-4b09-a132-5a2b0ad5558e"
           (reference "#FLG08") (unit 1)
         )
@@ -1050,7 +1050,7 @@
     (pin "1" (uuid 7b50f75d-1e02-478c-917c-68ecb1e8a9e6))
     (pin "2" (uuid 21b760bc-6738-4fee-8361-7c97a928719c))
     (instances
-      (project "OpenAmigaMouseTrigger"
+      (project "Amiga-MouseTrigger"
         (path "/2dc521a5-7c7d-4b09-a132-5a2b0ad5558e"
           (reference "J3") (unit 1)
         )
@@ -1075,7 +1075,7 @@
     )
     (pin "1" (uuid 01dcda22-3453-4041-9f46-e9b30632c6b0))
     (instances
-      (project "OpenAmigaMouseTrigger"
+      (project "Amiga-MouseTrigger"
         (path "/2dc521a5-7c7d-4b09-a132-5a2b0ad5558e"
           (reference "#PWR09") (unit 1)
         )
@@ -1100,7 +1100,7 @@
     )
     (pin "1" (uuid 2b104958-a276-4291-acb4-172996b2cf7f))
     (instances
-      (project "OpenAmigaMouseTrigger"
+      (project "Amiga-MouseTrigger"
         (path "/2dc521a5-7c7d-4b09-a132-5a2b0ad5558e"
           (reference "#PWR010") (unit 1)
         )
@@ -1125,7 +1125,7 @@
     )
     (pin "1" (uuid 74059947-ec9f-4748-b9f4-d2a1fbbaaab6))
     (instances
-      (project "OpenAmigaMouseTrigger"
+      (project "Amiga-MouseTrigger"
         (path "/2dc521a5-7c7d-4b09-a132-5a2b0ad5558e"
           (reference "#PWR011") (unit 1)
         )
@@ -1150,7 +1150,7 @@
     )
     (pin "1" (uuid a0e6df1e-fd7b-4cff-8cd0-48b210209e09))
     (instances
-      (project "OpenAmigaMouseTrigger"
+      (project "Amiga-MouseTrigger"
         (path "/2dc521a5-7c7d-4b09-a132-5a2b0ad5558e"
           (reference "J99") (unit 1)
         )
@@ -1176,7 +1176,7 @@
     (pin "1" (uuid 19a7808a-5f80-4ce8-b3d1-186d28fb9af8))
     (pin "2" (uuid 72a1cf17-5fd7-4a75-a0df-636ebf1c0e84))
     (instances
-      (project "OpenAmigaMouseTrigger"
+      (project "Amiga-MouseTrigger"
         (path "/2dc521a5-7c7d-4b09-a132-5a2b0ad5558e"
           (reference "R1") (unit 1)
         )
@@ -1202,7 +1202,7 @@
     (pin "1" (uuid dd6629a4-e826-4278-bfce-b928c632bbb9))
     (pin "2" (uuid 8c502e1d-2dc2-407c-9150-6726c5c04255))
     (instances
-      (project "OpenAmigaMouseTrigger"
+      (project "Amiga-MouseTrigger"
         (path "/2dc521a5-7c7d-4b09-a132-5a2b0ad5558e"
           (reference "R2") (unit 1)
         )
@@ -1228,7 +1228,7 @@
     (pin "1" (uuid eda3a6e3-bb02-48dd-9f0b-9ce44c3deb01))
     (pin "2" (uuid e36437e1-7560-40e0-b870-dd672859fd12))
     (instances
-      (project "OpenAmigaMouseTrigger"
+      (project "Amiga-MouseTrigger"
         (path "/2dc521a5-7c7d-4b09-a132-5a2b0ad5558e"
           (reference "R4") (unit 1)
         )
